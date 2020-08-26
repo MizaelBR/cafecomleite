@@ -48,16 +48,16 @@ Este é feito `####### Titulo`.
 
 Negrito coloca-se dois asteriscos ** ou dois underlines \_\_.  
 exemplo:  
-**Negrito com asteriscos** e **negrito com underlines**
+**Negrito com asteriscos** e **negrito com underlines**  
 `**Negrito com asteriscos\*\* e **negrito com underlines**`
 
 Italico coloca-se um asteriscos * ou um underline \_.  
 exemplo:  
-*italico com asteriscos* e *italico com underline*
+*italico com asteriscos* e *italico com underline*  
 `*italico com asteriscos\* e _italico com underline_`
 
 Voce pode fazer junção dos dois estilos:  
-Oi, isto é **_cafe_** com **_leite_**?
+Oi, isto é **_cafe_** com **_leite_**?  
 `Oi, isto é **_cafe_** com __*leite*__?`
 
 _continua..._
