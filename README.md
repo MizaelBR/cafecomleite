@@ -46,10 +46,10 @@ Este é feito `###### Titulo`.
 
 # Estilos em textos
 
-Negrito coloca-se dois asteriscos ** ou dois underlines \_\_.  
+Negrito coloca-se dois asteriscos ** ou dois underlines \_.  
 exemplo:  
 **Negrito com asteriscos** e **negrito com underlines**  
-`**Negrito com asteriscos\*\* e **negrito com underlines**`
+`**Negrito com asteriscos** e **negrito com underlines\*\*`
 
 Italico coloca-se um asteriscos * ou um underline \_.  
 exemplo:  
