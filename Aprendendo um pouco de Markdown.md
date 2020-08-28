@@ -23,3 +23,7 @@ _Ponto 1_
 **Ex 1:**
 
 [Github do Mizael](https://github.com/mizaelc)
+
+**_Ex 2:_**
+
+[Github do Mizael][mizael-link]: https://github.com/mizaelc
