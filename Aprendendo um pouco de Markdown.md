@@ -22,5 +22,5 @@ _Ponto 1_
 
 Ex: Github do Mizael
 
-[Github do Mizael][mizael-link]
+[Github do Mizael] [mizael-link]
 [mizael-link]: https://github.com/mizaelc
