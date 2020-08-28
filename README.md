@@ -72,7 +72,9 @@ Ex.:
 A segunda manera é assim:  
 Ex.:  
 [Github da Daniella][daniella-link]
+
 [daniella-link]: https://github.com/daniellamlima  
+
 `
 [Github da Daniella][daniella-link]  
 [daniella-link]: https://github.com/daniellamlima
