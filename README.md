@@ -92,12 +92,12 @@ Ex.:
 
 2. Segunda maneira:  
 ```md
-![Gif do Octocat][Octogif]
+![Gif Octocat][Octogif]
 
 [octogif]: https://octodex.github.com/images/hula_loop_octodex03.gif
 ```
 
-![Gif do Octocat][Octogif]
+![Gif Octocat][Octogif]
 
 [octogif]: https://octodex.github.com/images/hula_loop_octodex03.gif
 
