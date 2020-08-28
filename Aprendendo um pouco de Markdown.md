@@ -20,5 +20,6 @@ _Ponto 1_
 
 ### Teste com Links
 
-[Github do Mizael][mizael-link]
+Ex: Github do Mizael
+[Github do Mizael] [mizael-link]
 [mizael-link]: https://github.com/mizaelc
