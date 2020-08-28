@@ -44,7 +44,7 @@ Este é feito `##### Titulo`.
 
 Este é feito `###### Titulo`.
 
-# Estilos em textos
+## Estilos em textos
 
 Negrito coloca-se dois asteriscos ** ou dois underlines __.  
 exemplo:  
@@ -60,7 +60,7 @@ Voce pode fazer junção dos dois estilos:
 Oi, isto é **_cafe_** com **_leite_**?  
 `Oi, isto é **_cafe_** com __*leite*__?`
 
-# Links
+## Links
 
 Para fazer **links**, tem duas maneras.  
 A mais facil é: `[Texto do link](Link.com)`
@@ -80,5 +80,26 @@ Ex.:
 
 [daniella-link]: https://github.com/daniellamlima
 ```
+## Imagens
+
+O uso de imagens é parecido com o uso de links,  
+a unica difetença é colocar uma exclamação no inicio.  
+E da mesma forma tem dois modo de usar
+Ex.:  
+1. Primeira maneira: ` ![Titulo para imagem](https://octodex.github.com/images/Fintechtocat.png) `  
+![Titulo para imagem](https://octodex.github.com/images/Fintechtocat.png)
+
+
+2. Segunda maneira:  
+```md
+![Gif do Octocat][Octogif]
+
+[octogif]: https://octodex.github.com/images/hula_loop_octodex03.gif
+```
+
+![Gif do Octocat][Octogif]
+
+[octogif]: https://octodex.github.com/images/hula_loop_octodex03.gif
+
 
 _continua..._
