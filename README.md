@@ -38,11 +38,11 @@ Este é feito `#### Titulo`.
 
 ##### Titulo
 
-Este é feito `###### Titulo`.
+Este é feito `##### Titulo`.
 
 ###### Titulo
 
-Este é feito `####### Titulo`.
+Este é feito `###### Titulo`.
 
 # Estilos em textos
 
@@ -53,11 +53,29 @@ exemplo:
 
 Italico coloca-se um asteriscos * ou um underline _.  
 exemplo:  
-*italico com asteriscos* e _italico com underline_ 
+*italico com asteriscos* e _italico com underline_  
 `*italico com asteriscos* e _italico com underline_`
 
 Voce pode fazer junção dos dois estilos:  
 Oi, isto é **_cafe_** com **_leite_**?  
 `Oi, isto é **_cafe_** com __*leite*__?`
+
+# Links
+
+Para fazer **links**, tem duas maneras.  
+A mais facil é: `[Texto do link](Link.com)`
+
+Ex.:
+[google](google.com)  
+`[google](google.com)`
+
+A segunda manera é assim:
+Ex.:
+[Github da Daniella][daniella-link]
+[daniella-link]: https://github.com/daniellamlima
+`
+[Github da Daniella][daniella-link]  
+[daniella-link]: https://github.com/daniellamlima
+`
 
 _continua..._
