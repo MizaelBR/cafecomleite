@@ -26,4 +26,5 @@ _Ponto 1_
 
 **_Ex 2:_**
 
-[Github do Mizael][mizael-link][mizael-link]: https://github.com/mizaelc
+[Github do Mizael][mizael-link]
+[mizael-link]: https://github.com/mizaelc
