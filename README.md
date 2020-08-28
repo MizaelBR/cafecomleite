@@ -69,10 +69,10 @@ Ex.:
 [google](google.com)  
 `[google](google.com)`
 
-A segunda manera é assim:
-Ex.:
+A segunda manera é assim:  
+Ex.:  
 [Github da Daniella][daniella-link]
-[daniella-link]: https://github.com/daniellamlima
+[daniella-link]: https://github.com/daniellamlima  
 `
 [Github da Daniella][daniella-link]  
 [daniella-link]: https://github.com/daniellamlima
