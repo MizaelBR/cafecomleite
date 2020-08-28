@@ -76,7 +76,7 @@ Ex.:
 [daniella-link]: https://github.com/daniellamlima  
 
 `
-[Github da Daniella][daniella-link]  
+[Github da Daniella][daniella-link]<br/>
 [daniella-link]: https://github.com/daniellamlima
 `
 
