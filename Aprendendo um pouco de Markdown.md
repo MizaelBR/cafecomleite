@@ -33,8 +33,7 @@ _Ponto 1_
 ### Imagens
 
 
-! [Vinyltocat]
-(https://octodex.github.com/images/vinyltocat.png)
+![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)
 
 
 
