@@ -50,3 +50,19 @@ _Ponto 1_
 | Saia              |            100            |  R\$ 70,00 |
 | Calça             |            150            | R\$ 110,00 |
 | Short             |            60             |  R\$ 95,00 |
+
+### Listas
+
+-   _Bolo_
+-   _Pão_
+-   _Biscoito_
+
+#### Bolos do dia
+
+      - Bolos Integrais
+
+           1. Cacau e Castanhas
+           2. Avelã e chia
+           3. Limão Siciliano
+
+      - Bolo Tradicional Mesclado
