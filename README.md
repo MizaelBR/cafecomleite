@@ -123,4 +123,43 @@ Outra citação:
 > Obs.:  
 > Ao usar o carro nunca esqueça do cinto de segurança.
 
+## Tabela
+Como fazer tabela no markdown.
+Tabela tem as celulas de titulo e as de conteudos.
+Irei fazer uma tabela de notas para este exemplo.
+
+Nome | Nota 1 | Nota 2 | Média
+----- | ----- | ----- | -----
+Maria | 5 | 2 | 3,5
+João | 7 | 1 | 3
+
+```
+Nome | Nota 1 | Nota 2 | Média
+----- | ----- | ----- | -----
+Maria | 5 | 2 | 3,5
+João | 7 | 1 | 3
+```
+Vamos agora ajustar o texto dentro da tabela.
+Para isto vamos usar "dois pontos (:)".
+
+> Ajuste Esquerdo   :-----
+> Centralizado         :-----:
+> Ajuste Direita         -----:
+
+Ex.:
+
+Nome | Mercadoria | Valor
+:----- | :-----: | -----:
+Ana Maria | Ovos | R$ 12,00
+João Paulo | Pão | R$ 2,00
+Miguel Silva | Carne | R$ 20,00
+
+```
+Nome | Mercadoria | Valor
+:----- | :-----: | -----:
+Ana Maria | Ovos | R$ 12,00
+João Paulo | Pão | R$ 2,00
+Miguel Silva | Carne | R$ 20,00
+```
+
 _continua..._
