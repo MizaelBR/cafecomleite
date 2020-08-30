@@ -101,5 +101,26 @@ Ex.:
 
 [octogif]: https://octodex.github.com/images/hula_loop_octodex03.gif
 
+## Citação
+Para citar uma frase ou um texto, basta usar "
+maior do que (>)"
+ no início das linha e dar um espaçamento depois.
+Ex.:
+
+> Lindo por do sol.
+> Brinda-nos neste dia.
+> Vira poesia.
+
+```
+> Lindo por do sol.
+> Brinda-nos neste dia.
+> Vira poesia.
+```
+
+Ao citar algo ele se destaca do resto do texto.
+
+Outra citação:
+> Obs.:
+> Ao usar o carro nunca esqueça do cinto de segurança.
 
 _continua..._
