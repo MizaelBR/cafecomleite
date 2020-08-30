@@ -166,7 +166,7 @@ Vamos para as Listas.
 Para criar uma lista tem 3 modo.
 2 deles dão o mesmo rsultado e é por eles que vamos começar
 
-1. Modo - Usando asterisco(*) para criar a lista.
+1. Modo - Usando asterisco(*) para criar a lista.  
 Lista de Carros:
 * Uno
 * Camaro
@@ -178,7 +178,7 @@ Lista de Carros:
 * Celta
 ```
 
-2. Modo - Usando hifen(-).
+2. Modo - Usando hifen(-).  
 Lista de comida:
 - Pão
 - Tomate
@@ -190,7 +190,7 @@ Lista de comida:
 - Queijo
 ```
 
-3. Modo - Usando o numero mais um ponto(1.).
+3. Modo - Usando o numero mais um ponto(1.).  
 Lista de itens:
 1. Bolsa
 2. Cadeira
@@ -204,8 +204,8 @@ Lista de itens:
 4. Dinheiro
 ```
 
-Alem disso, tem como fazer lista dentro de lista e misturar os tipos de listas.
-Ex.:
+Alem disso, tem como fazer lista dentro de lista e misturar os tipos de listas.  
+Ex.:  
 Lista de Carro:
 * Fiat
   1. Uno
