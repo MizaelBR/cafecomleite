@@ -42,3 +42,11 @@ _Ponto 1_
 
 > Obs.:
 > Desligue a máquina ao retirar-se desse local.
+
+### Tabela
+
+| **Peça de Roupa** | **Quantidade em Estoque** |  **Valor** |
+| :---------------- | :-----------------------: | ---------: |
+| Saia              |            100            |  R\$ 70,00 |
+| Calça             |            150            | R\$ 110,00 |
+| Short             |            60             |  R\$ 95,00 |
