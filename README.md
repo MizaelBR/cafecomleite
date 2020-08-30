@@ -191,7 +191,8 @@ Lista de comida:
 ```
 
 3. Modo - Usando o numero mais um ponto(1.).  
-Lista de itens:
+
+Lista de itens:  
 1. Bolsa
 2. Cadeira
 3. Computador
