@@ -59,10 +59,10 @@ _Ponto 1_
 
 #### Bolos do dia
 
-      - Bolos Integrais
+-   Bolos Integrais
 
-           1. Cacau e Castanhas
-           2. Avelã e chia
-           3. Limão Siciliano
+1. Cacau e Castanhas
+2. Avelã e chia
+3. Limão Siciliano
 
-      - Bolo Tradicional Mesclado
+-   Bolo Tradicional Mesclado
