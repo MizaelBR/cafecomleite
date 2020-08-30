@@ -107,8 +107,8 @@ maior do que (>)"
  no início das linha e dar um espaçamento depois.
 Ex.:
 
-> Lindo por do sol.
-> Brinda-nos neste dia.
+> Lindo por do sol.  
+> Brinda-nos neste dia.  
 > Vira poesia.
 
 ```
@@ -120,7 +120,7 @@ Ex.:
 Ao citar algo ele se destaca do resto do texto.
 
 Outra citação:
-> Obs.:
+> Obs.:  
 > Ao usar o carro nunca esqueça do cinto de segurança.
 
 _continua..._
