@@ -167,6 +167,7 @@ Para criar uma lista tem 3 modo.
 2 deles dão o mesmo rsultado e é por eles que vamos começar
 
 1. Modo - Usando asterisco(*) para criar a lista.  
+
 Lista de Carros:
 * Uno
 * Camaro
@@ -179,6 +180,7 @@ Lista de Carros:
 ```
 
 2. Modo - Usando hifen(-).  
+
 Lista de comida:
 - Pão
 - Tomate
@@ -206,6 +208,7 @@ Lista de itens:
 ```
 
 Alem disso, tem como fazer lista dentro de lista e misturar os tipos de listas.  
+
 Ex.:  
 Lista de Carro:
 * Fiat
