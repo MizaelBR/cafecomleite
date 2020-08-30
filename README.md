@@ -142,8 +142,8 @@ João | 7 | 1 | 3
 Vamos agora ajustar o texto dentro da tabela.
 Para isto vamos usar "dois pontos (:)".
 
-> Ajuste Esquerdo   :-----
-> Centralizado         :-----:
+> Ajuste Esquerdo   :-----  
+> Centralizado         :-----:  
 > Ajuste Direita         -----:
 
 Ex.:
