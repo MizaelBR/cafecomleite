@@ -32,12 +32,13 @@ _Ponto 1_
 
 ### Imagens
 
-
 ![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)
-
 
 ![Gif Nyantocat][nyantocatgif]
 
 [nyantocatgif]: https://octodex.github.com/images/nyantocat.gif
 
+### Citação
 
+> Obs.:
+> Desligue a máquina ao retirar-se desse local.
