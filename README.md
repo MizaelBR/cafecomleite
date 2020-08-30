@@ -161,5 +161,80 @@ Ana Maria | Ovos | R$ 12,00
 João Paulo | Pão | R$ 2,00
 Miguel Silva | Carne | R$ 20,00
 ```
+## Lista
+Vamos para as Listas.
+Para criar uma lista tem 3 modo.
+2 deles dão o mesmo rsultado e é por eles que vamos começar
+
+1. Modo - Usando asterisco(*) para criar a lista.
+Lista de Carros:
+* Uno
+* Camaro
+* Celta
+
+```
+* Uno
+* Camaro
+* Celta
+```
+
+2. Modo - Usando hifen(-).
+Lista de comida:
+- Pão
+- Tomate
+- Queijo
+
+```
+- Pão
+- Tomate
+- Queijo
+```
+
+3. Modo - Usando o numero mais um ponto(1.).
+Lista de itens:
+1. Bolsa
+2. Cadeira
+3. Computador
+4. Dinheiro
+
+```
+1. Bolsa
+2. Cadeira
+3. Computador
+4. Dinheiro
+```
+
+Alem disso, tem como fazer lista dentro de lista e misturar os tipos de listas.
+Ex.:
+Lista de Carro:
+* Fiat
+  1. Uno
+  2. Up
+* Tesla
+  - Model S
+    1. Rodas
+    2. Portas
+    3. Bateria
+  - Model X
+* BMW
+  * X1
+  * X2
+
+```
+* Fiat
+  1. Uno
+  2. Up
+* Tesla
+  - Model S
+    1. Rodas
+    2. Portas
+    3. Bateria
+  - Model X
+* BMW
+  * X1
+  * X2
+```
+> OBS.:  
+> Não esqueça de dar um espaço entre o texto e o simbolo que cria a lista.
 
 _continua..._
